@@ -29,3 +29,9 @@ address{
 nav{
 	background:#8A817C;
 }
+.tab-content{
+	border-left: solid 1px #ddd;
+	border-right: solid 1px #ddd;
+	border-bottom: solid 1px #ddd;
+	padding:10px;
+}
